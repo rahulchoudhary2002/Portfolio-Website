@@ -19,9 +19,7 @@ This is where I showcase my **projects, skills, and experience** as a developer.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,java,spring,git" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,cpp,c,java,spring,git)
 
 **Frameworks & Tools Used:**  
 - React.js  
